@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K-T_Metoda_Krivec", "K-T_Metoda_Krivec\K-T_Metoda_Krivec.csproj", "{7BAF454E-E026-4305-BA91-F7BC1BE5772E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BAF454E-E026-4305-BA91-F7BC1BE5772E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BAF454E-E026-4305-BA91-F7BC1BE5772E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BAF454E-E026-4305-BA91-F7BC1BE5772E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BAF454E-E026-4305-BA91-F7BC1BE5772E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD641FB5-4C43-4D0F-A9CE-F921FC79D1BA}
+	EndGlobalSection
+EndGlobal
