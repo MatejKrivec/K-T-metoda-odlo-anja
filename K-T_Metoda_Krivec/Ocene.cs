@@ -25,13 +25,11 @@ namespace K_T_Metoda_Krivec
             InitializeComponent();
 
 
-            // Add the column headers from parametri2
             foreach (string columnHeader in Alternative2)
             {
                 Podatki.Columns.Add(columnHeader, columnHeader);
             }
 
-            // Add the rows from alternative2
             foreach (string rowHeader in Parametri2)
             {
                 DataGridViewRow row = new DataGridViewRow();
